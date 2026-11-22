@@ -2,7 +2,7 @@
 //  YOUR WISHLIST — this is the only file you edit to add items
 // ===========================================================
 
-export const siteTitle = "Alyssa's Christmas Wishlist 2026";
+export const siteTitle = "Tony's Christmas Wishlist 2026";
 export const siteSubtitle = "Tap a card to see the item :)";
 
 // Each item is one block between { } followed by a comma.
