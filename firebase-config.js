@@ -6,7 +6,7 @@
 export const firebaseConfig = {
   apiKey: "AIzaSyDflSQOkuBrty3s78YCOK9DgwLqBYU60Bo",
   authDomain: "tony-x-mas.firebaseapp.com",
-  databaseURL: "https://tony-x-mas-default-rtdb.firebaseio.com",
+  databaseURL: "https://tony-x-mas-default-rtdb.firebaseio.com/",
   projectId: "tony-x-mas",
   appId: "1:556904311399:web:8b4ffa2b2f3de99952c2c2",
 };
