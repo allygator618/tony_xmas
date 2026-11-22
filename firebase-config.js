@@ -4,9 +4,9 @@
 // person's own device only.
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyDa6jbe6PWmIbqBIyZWLCb09vLUB-s07oA",
-  authDomain: "xmas-wishlist-60898.firebaseapp.com",
-  databaseURL: "https://xmas-wishlist-60898-default-rtdb.firebaseio.com/",
-  projectId: "xmas-wishlist-60898",
-  appId: "1:351934429563:web:4f203b595b496765dba5de",
+  apiKey: "AIzaSyDflSQOkuBrty3s78YCOK9DgwLqBYU60Bo",
+  authDomain: "tony-x-mas.firebaseapp.com",
+  databaseURL: "https://tony-x-mas-default-rtdb.firebaseio.com",
+  projectId: "tony-x-mas",
+  appId: "1:556904311399:web:8b4ffa2b2f3de99952c2c2",
 };
